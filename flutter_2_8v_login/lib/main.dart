@@ -48,7 +48,7 @@ class Authentication extends StatelessWidget {
                 child: AspectRatio(
                   aspectRatio: 1,
                   child: Image(
-                    image: AssetImage(''),
+                    image: AssetImage('images/'),
                   ),
                 ),
               );
